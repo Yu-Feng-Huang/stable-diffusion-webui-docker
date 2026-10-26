@@ -29,6 +29,7 @@ https://civitai.com/api/download/models/290640?fileId=228616
 # https://civitai.com/models/101055/sd-xl
 https://civitai.com/api/download/models/128078?fileId=92696
   out=Stable-diffusion/sdXL_v10VAEFix.safetensors
+  
 # https://civitai.red/models/594253/aniverse-pony-xl?modelVersionId=663729
 https://civitai.red/api/download/models/663729?fileId=578802
   out=Stable-diffusion/aniversePonyXL_v10.safetensors
