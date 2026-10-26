@@ -19,6 +19,7 @@ name: webui-docker
 services:
   download:
     build: ./services/download/
+    image: sd-downloader
     profiles: ["download"]
     volumes:
       - *v1
