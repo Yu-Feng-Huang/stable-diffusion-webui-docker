@@ -1,0 +1,18 @@
+# https://civitai.red/models/118913/sdxl-10-arienmixxl-asian-portrait?modelVersionId=448627
+https://civitai.red/api/download/models/448627?fileId=368481
+  out=Stable-diffusion/sdxl10ArienmixxlAsian_v45Pruned.safetensors
+# https://civitai.red/models/9025/nudify-xl-better-bodies?modelVersionId=177674
+https://civitai.red/api/download/models/177674?fileId=135846
+  out=Lora/sdxl10nudify_xl_lite.safetensors
+# https://civitai.red/models/658881/nsfw-pose?modelVersionId=888185
+https://civitai.red/api/download/models/888185?fileId=796688
+   out=Lora/ponyNSFW_1.4.safetensors
+# https://civitai.com/models/257749/pony-diffusion-v6-xl
+https://civitai.com/api/download/models/290640?fileId=228616
+  out=Stable-diffusion/ponyDiffusionV6XL_v6StartWithThisOne.safetensors
+# https://civitai.com/models/101055/sd-xl
+https://civitai.com/api/download/models/128078?fileId=92696
+  out=Stable-diffusion/sdXL_v10VAEFix.safetensors
+# https://civitai.red/models/594253/aniverse-pony-xl?modelVersionId=1761857
+https://civitai.red/api/download/models/1761857?fileId=1662621
+  out=Stable-diffusion/aniversePonyXL_v60.safetensors
